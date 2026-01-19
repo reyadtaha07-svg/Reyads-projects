@@ -1,0 +1,19 @@
+# Face Emotion Recognition
+
+## Overview
+This project focuses on building a machine learning / deep learning model to recognize human facial emotions from images.
+
+## Objective
+To classify facial expressions such as happy, sad, angry, surprised, neutral, etc.
+
+## Dataset
+FER-2013 / facial emotion dataset.
+
+## Methods
+CNN, image preprocessing, data augmentation, model training and evaluation.
+
+## Tools
+Python, TensorFlow/Keras, OpenCV, NumPy, Matplotlib.
+
+## Author
+Reyad Taha
